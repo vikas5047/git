@@ -3,3 +3,5 @@ Bears
 Tigers
 Black Panther
 koalas
+Lions
+leopards
